@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qiyi/Desktop/Dev/Helloworld/src/Main.cpp
+iostream
+-
+vector
+-
+set
+-
+Log.h
+-
+Array.h
+-
+Linked_list.h
+-
+Stack.h
+-
+
+include/Array.h
+iostream
+-
+
+include/Linked_list.h
+Log.h
+-
+
+include/Log.h
+
+include/Stack.h
+

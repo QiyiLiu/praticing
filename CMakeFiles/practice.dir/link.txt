@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -std=c++14 -g   CMakeFiles/practice.dir/src/Log.cpp.o CMakeFiles/practice.dir/src/Main.cpp.o  -o practice 

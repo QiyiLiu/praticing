@@ -1,0 +1,3 @@
+/home/qiyi/Desktop/Dev/Helloworld/CMakeFiles/rebuild_cache.dir
+/home/qiyi/Desktop/Dev/Helloworld/CMakeFiles/edit_cache.dir
+/home/qiyi/Desktop/Dev/Helloworld/CMakeFiles/practice.dir
